@@ -1,0 +1,5 @@
+Wireframe
+{
+"$basetexture" "models/weapons/v_models/eq_flashbang/flashbang"
+$color2 "[0 0.8 1]"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapons/w_models/w_eq_flashbang/w_eq_flashbang"
+	"$model" "1"
+                 $color "[0 0.8 1]"
+}

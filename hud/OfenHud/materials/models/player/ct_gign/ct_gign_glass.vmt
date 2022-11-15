@@ -1,0 +1,12 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapons/w_models/w_eq_flashbang/helmet"
+	"$model" "1"
+                 $color "[0.37 0. 0.37]"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.3
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ 0.36 0.36 0.36 ]"
+	"$blendtintbybasealpha" 1
+}

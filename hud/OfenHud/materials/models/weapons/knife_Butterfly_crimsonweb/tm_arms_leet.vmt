@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+//                "$phongdisablehalflambert" "1"
+        "$basetexture" "models\weapons\knife_Butterfly_crimsonweb\tm_arms_leet"
+        "$bumpmap" "models\weapons\knife_Butterfly_crimsonweb\tm_arms_leet_normal"
+        "$phongexponenttexture" "models\weapons\knife_Butterfly_crimsonweb\tm_arms_leet_exp"
+	"$phong" "1"
+	"$phongBoost" "0.5"
+	"$phongTint" "[1 1 1]"
+	"$phongFresnelRanges" "[.2 .2 1]"
+	"$rimlight" "1"
+	"$rimlightexponent" "9"
+	"$rimlightboost" ".2"
+	"$rimmask" 1
+}

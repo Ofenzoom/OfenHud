@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\knife_Butterfly_crimsonweb\knife_butterfly_crimsonweb"
+	"$phongexponenttexture" 	"models\weapons\knife_Butterfly_crimsonweb\green"
+	"$phong" "1"
+	"$phongexponent" "11"
+	"$phongboost" "83"
+	"$phongalbedoboost" "83"
+	"$phongfresnelranges" "[.83 .83 .1]"
+	"$basemapalphaphongmask" "1"
+	"$phongalbedotint" "1"
+	"$phongdisablehalflambert" "3"
+
+}
+
+
